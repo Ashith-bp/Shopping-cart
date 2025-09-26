@@ -10,7 +10,7 @@ def main():
         print("3. View Cart")
         print("4. Exit")
 
-        choice = input("Enter choice: ")
+        choice = input("Enter choice:")
         if choice == "1":
             list_products()
         elif choice == "2":
